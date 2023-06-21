@@ -1,0 +1,12 @@
+# For known libraries can list recurse here
+set(Wire_RECURSE True)
+set(Ethernet_RECURSE True)
+set(SD_RECURSE True)
+set(Servo_RECURSE True)
+set(SPI_RECURSE True)
+set(SoftwareSerial_RECURSE True)
+set(EEPROM_RECURSE True)
+set(LiquidCrystal_RECURSE True)
+set(TFT_RECURSE True)
+set(WiFi_RECURSE True)
+set(Robot_Control_RECURSE True)
